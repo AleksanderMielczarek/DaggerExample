@@ -1,0 +1,19 @@
+ext {
+    //tools
+    minSdkVersionVersion = 19
+    sdkVersion = 27
+    buildToolsVersionVersion = "27.0.3"
+
+    //plugins
+    toolsVersion = '3.0.1'
+    versionsVersion = '0.17.0'
+
+    //kotlin
+    kotlinVersion = '1.2.30'
+
+    //support
+    supportLibraryVersion = '27.1.0'
+
+    //dagger
+    daggerVersion = '2.14.1'
+}
